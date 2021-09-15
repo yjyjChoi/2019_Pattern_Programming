@@ -1,2 +1,2 @@
 # 2019_Pattern_Programming
-paint application
+그림판
